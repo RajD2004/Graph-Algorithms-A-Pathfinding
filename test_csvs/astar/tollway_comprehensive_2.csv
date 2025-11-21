@@ -1,0 +1,21 @@
+None,A,B,C,D,E,F,G,H,I,J,K,L,M,Franklin Grove,Willow Creek,Burr Ridge,Joliet,Belvidere,Northbrook,Chicago
+A,None,8,None,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None,None
+B,8,None,8,None,None,None,5,None,None,None,None,None,None,None,None,None,None,None,None,None
+C,None,8,None,8,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None
+D,None,None,8,None,13,None,None,4,None,None,None,None,None,None,None,None,None,None,None,None
+E,None,None,None,13,None,13,None,None,None,None,None,None,None,None,None,0,0,None,None,None
+F,None,None,None,None,13,None,None,None,17,None,None,None,None,None,None,None,None,None,None,None
+G,None,5,None,None,None,None,None,5,None,5,None,None,None,None,None,None,None,None,None,None
+H,None,None,None,4,None,None,5,None,6,None,None,None,None,None,None,None,None,None,None,None
+I,None,None,None,None,None,17,None,6,None,None,None,17,None,None,None,None,None,None,None,None
+J,None,None,None,None,None,None,5,None,None,None,4,None,4,None,None,None,None,None,None,None
+K,None,None,None,None,None,None,None,None,None,4,None,4,None,None,None,None,None,0,None,None
+L,None,None,None,None,None,None,None,None,17,None,4,None,4,None,None,None,None,None,None,0
+M,None,None,None,None,None,None,None,None,None,4,None,4,None,None,None,None,None,None,0,None
+Franklin Grove,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Willow Creek,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Burr Ridge,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Joliet,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+Belvidere,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None
+Northbrook,None,None,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None,None,None
+Chicago,None,None,None,None,None,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None
